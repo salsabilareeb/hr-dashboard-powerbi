@@ -26,6 +26,13 @@ This report was created as part of a skill-building exercise inspired by publicl
 
 ---
 
+## Visualization
+
+![HR dashboard](https://github.com/user-attachments/assets/e074ab65-ddb2-41a5-8b54-4d09ea1f67b5)
+
+
+---
+
 ## Files Included
 
 - `HR Dashboard.pbix`: Power BI Desktop report file
